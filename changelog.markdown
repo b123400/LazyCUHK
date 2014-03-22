@@ -1,5 +1,22 @@
 #LazyCUHK ChangeLog
 
+##v7.0.4 (23 January2014)
+* Compatible with the new version of Y5ZONE login page
+* Individual Visit Scheme Special
+* Typo fixed
+
+##v7.0.3 (17 January 2014)
+* Adam Schall Special
+
+##v7.0.2 (17 January 2014)
+* Compatible with the new version of PCCW login page
+
+##v7.0.1 (08 October 2013)
+* Bug fixed - ENGWAVE password div slideUp now
+
+##v7.0.0 (29 September 2013)
+* Support UHS system
+
 ##v6.2.6 (23 September 2013)
 * Donation form added to the update page
 
@@ -12,7 +29,6 @@
 ##v6.2.3 (14 September 2013)
 * Compatible with the new version of Library login page
 * Compatible with the new version of Blackboard login page
-
 
 ##v6.2.2 (31 July 2013)
 * Redirect to [google.com](google.com)
